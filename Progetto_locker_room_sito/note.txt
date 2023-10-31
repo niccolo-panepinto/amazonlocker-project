@@ -1,0 +1,4 @@
+una variabile che ricevuto il segnale dal sensore stampi sul sito il valore (0, 1) (Presente, Mancante)
+
+
+Arrivato_pacco = dato_sensore
